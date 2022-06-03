@@ -1,0 +1,35 @@
+.canvasStory {
+    position: relative;
+    justify-content: left;
+    width: 100%;
+    height: 100vh;
+}
+
+#p1 {
+    font: Sans-serif;
+    font-size: xx-large;
+}
+
+#foto2 {
+    display: block;
+    width: 16%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#p2 {
+    font: Sans-serif;
+    font-size: larger;
+}
+
+#p3 {
+    font: Sans-serif;
+    font-size: larger;
+}
+
+#foto1 {
+    display: block;
+    width: 16%;
+    margin-left: auto;
+    margin-right: auto;
+}

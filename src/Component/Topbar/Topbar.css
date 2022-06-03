@@ -1,0 +1,17 @@
+.topbar {
+	background-color: rgb(245, 245, 245);
+}
+
+.icon {
+	font-size: 33px;
+	cursor: pointer;
+	color: #79DAE8;
+}
+
+.icon:hover {
+	color: #2155CD;
+}
+
+.img-fluid-title {
+	height: 100px;
+}

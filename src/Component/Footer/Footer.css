@@ -1,0 +1,40 @@
+.footer {
+	background-color: #79DAE8;
+	position: relative;
+	height: 200px;
+}
+
+.blue-box {
+	background-color: white;
+	position: absolute;
+	top: -12%;
+	left: 50%;
+	transform: translate(-50%, -0%);
+	border-radius: 12px;
+}
+
+.copy-right,
+.tos {
+	font-size: 0.7125rem;
+	color: #2155CD;
+}
+
+.line {
+	color: #2155CD;
+}
+
+.logo-title {
+	font-size: 35px;
+	color: #79DAE8;
+	text-transform: uppercase;
+}
+
+.icon-white {
+	font-size: 33px;
+	color: #79DAE8;
+	cursor: pointer;
+}
+
+.icon-white:hover {
+	color: #2155CD;
+}
